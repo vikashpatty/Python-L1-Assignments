@@ -1,0 +1,4 @@
+line num:1 Number of words:1 Number of words 3 
+line num:1 Number of words:3 Number of words 17 
+line num:1 Number of words:0 Number of words 1 
+line num:1 Number of words:3 Number of words 20 
